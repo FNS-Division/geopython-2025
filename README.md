@@ -30,6 +30,9 @@ This repository contains links to slides hosted on a [Google Drive folder](https
 
 - **Slides:**
     - [`ITU broadband connectivity planning tools`](https://docs.google.com/presentation/d/11Zyl1DhpP4KbRYcbHlPyPV0w-fLUyDur/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true): Overview of ITU connectivity planning tools for schools
+
+<img src="https://i.ibb.co/Bjq6d7Y/slide-snapshot.png" alt="slide-snapshot" border="0">
+
 - **Jupyter Notebooks:**
     - [`0_eda_standardization.ipynb`](0_eda_standardization.ipynb): Data exploration and standardization procedures
     - [`1_proximity_coverage_demand.ipynb`](1_proximity_coverage_demand.ipynb): Analysis of coverage proximity and demand mapping
