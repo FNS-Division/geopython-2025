@@ -34,7 +34,7 @@ This repository contains links to slides hosted on a [Google Drive folder](https
 <img src="https://i.ibb.co/Bjq6d7Y/slide-snapshot.png" alt="slide-snapshot" border="0">
 
 - **Jupyter Notebooks:**
-    - [`0_eda_standardization.ipynb`](0_eda_standardization.ipynb): Data exploration and standardization procedures
+    - [`0_get_open_data.ipynb`](0_get_open_data.ipynb): Get open data on ICT infrastructure and standardize it
     - [`1_proximity_coverage_demand.ipynb`](1_proximity_coverage_demand.ipynb): Analysis of coverage proximity and demand mapping
     - [`2_visibility_analysis.ipynb`](2_visibility_analysis.ipynb): Visibility and line-of-sight analysis for network planning
     - [`3_fiber_modeling.ipynb`](3_fiber_modeling.ipynb): Fiber network modeling and optimization
